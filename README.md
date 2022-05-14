@@ -1,2 +1,3 @@
 # Texas
-A demo App
+
+A demo of [Poker](https://github.com/nashysolutions/Poker).
